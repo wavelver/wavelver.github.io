@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://wavelver.github.io/sitemap.html.gz
+Sitemap: https://wavelver.github.io/app/sitemap.html.gz
+Sitemap: https://wavelver.github.io/assets/sitemap.html.gz
+Sitemap: https://wavelver.github.io/css/sitemap.html.gz
+Sitemap: https://wavelver.github.io/data/sitemap.html.gz
+Sitemap: https://wavelver.github.io/includes/sitemap.html.gz
+Sitemap: https://wavelver.github.io/item/sitemap.html.gz
+Sitemap: https://wavelver.github.io/src/sitemap.html.gz
